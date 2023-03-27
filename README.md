@@ -1,1 +1,1 @@
-# irishLifeSmartInvest-Automation
+# Appium-Automation
