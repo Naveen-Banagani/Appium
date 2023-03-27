@@ -1,0 +1,13 @@
+resources/screenshots/*
+test-output/*
+target/*
+.DS_Store
+.classpath
+.project
+.settings/
+src/test/resources/apps/*
+allure-results/*
+.idea
+.idea/*
+.idea/libraries/*
+/target/
